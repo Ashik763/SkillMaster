@@ -1,0 +1,22 @@
+
+.home-content{
+    position: relative;
+    max-width: 1200px;
+    color:#302D3A;
+}
+.text{
+    /* background-color: #eea3c8;
+    opacity: .2; */
+}
+
+.bg-img{
+    /* background-image: url(); */
+    position: absolute;
+    /* height: 90%; */
+    width:60% ;
+    z-index:-1;
+}
+.side-img{
+    border-radius: 5%;
+}
+

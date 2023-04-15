@@ -1,0 +1,14 @@
+.courses-container{
+    max-width: 1200px;
+    width: 90%;
+
+}
+
+.sidebar{
+    min-height: 80vh;
+}
+@media screen and (max-width: 768px){
+    .sidebar{
+        height: 200px;
+    }
+}

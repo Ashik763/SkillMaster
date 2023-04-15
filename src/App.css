@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  font-family: 'Poppins';
+  /* overflow-x: hidden; */
+  /* overflow-y: scroll; */
+
 }
 
 .App-logo {
